@@ -511,6 +511,11 @@ h1.blog-title a:hover {
     text-shadow: 0 1px 3px rgba(0,0,0,0.15);
 }
 
+h2.blog-description i {
+    line-height: 150%;
+    font-size: 4.0rem;
+}
+
 /* Every post, on every page, gets this style on its <article> tag */
 .post {
     position: relative;
